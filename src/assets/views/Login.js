@@ -8,10 +8,13 @@ const Login = (props) => {
 
     const navigate = useNavigate();
 
-    const validar = () => {
-        props.setLogin(true)
-        navigate("/menu")
+    const logar = () => {
+       navigate("/home")
     };
+
+    const cadastrar = () => {
+        navigate("/cadastro")
+    }
 
     return (
 
@@ -50,11 +53,12 @@ const Login = (props) => {
                     style={{ marginTop: 15, float: "right" }}>
                     <Button variant="outlined"
                         style={{ marginRight: 10 }}
-                        onClick={validar}>
+                        onClick={logar}>
                         Login
                     </Button>
 
-                    <Button variant="outlined">
+                    <Button variant="outlined"
+                        onClick={cadastrar}>
                         Register
                     </Button>
 

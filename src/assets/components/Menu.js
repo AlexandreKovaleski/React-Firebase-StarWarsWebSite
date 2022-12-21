@@ -1,18 +1,11 @@
-import { Grid } from '@mui/material';
 import React from 'react';
-import Cabecalho from '../components/Cabecalho';
-import Rodape from '../components/Rodape';
+import { Grid } from '@mui/material';
 
 const Menu = () => {
     return (
         <>
 
             <Grid container style={{ padding: 10 }}>
-
-                <Grid item md={12} xs={12} sm={12}>
-                    <Cabecalho />
-                </Grid>
-
                 <Grid item md={12} xs={12} sm={12}>
                     <div className='menu'>
                         <div className='itemMenu'>HOME</div>
@@ -22,20 +15,9 @@ const Menu = () => {
                         <div className='itemMenu'>PLANETS</div>
                         <div className='itemMenu'>SPECIES</div>
                         <div className='itemMenu'>ABOUT</div>
-                        <div className='itemMenu'>LOGOFF</div>
-
+                        <div className='itemMenu'>LOGOUT</div>
                     </div>
                 </Grid>
-
-                <div
-                    className='corpo'>
-                    corpo
-                </div>
-
-                <Grid item md={12} xs={12} sm={12}>
-                    <Rodape />
-                </Grid>
-
             </Grid>
         </>
     );
