@@ -1,7 +1,17 @@
 import React from 'react';
 import { Grid } from '@mui/material';
+import { useNavigate } from 'react-router-dom';
 
 const Menu = () => {
+
+    const navigate = useNavigate()
+
+    const logout = () => {
+        sessionStorage.removeItem("login")
+        navigate("/")
+
+    }
+
     return (
         <>
 
@@ -15,7 +25,11 @@ const Menu = () => {
                         <div className='itemMenu'>PLANETS</div>
                         <div className='itemMenu'>SPECIES</div>
                         <div className='itemMenu'>ABOUT</div>
-                        <div className='itemMenu'>LOGOUT</div>
+                        <div
+                            className='itemMenu'
+                            onClick={logout}>
+                            LOGOUT
+                        </div>
                     </div>
                 </Grid>
             </Grid>

@@ -27,6 +27,7 @@ code {
     width: 100%;
     margin-top: 10px;
     margin-bottom: 10px;
+    display: inline-block;
 }
 
 .itemMenu {
@@ -52,6 +53,13 @@ code {
     padding: 10px;
     margin-top: 10px;
     margin-bottom: 10px;
+}
+
+.about {
+    font-size: 16px;
+    padding: 10px;
+    margin-top: 150px;
+    margin-bottom: 150px;
 }
 
 .rodape {

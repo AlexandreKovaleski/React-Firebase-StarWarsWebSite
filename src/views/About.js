@@ -19,10 +19,19 @@ const About = () => {
                     <Menu />
                 </Grid>
 
-                <div
-                    className='corpo'>
-                    about
-                </div>
+                <Grid item md={5} xs={12} sm={12}></Grid>
+
+                <Grid item md={2} xs={12} sm={12}>
+
+                    <div
+                        className='about'>
+                        <h2 style={{ textAlign: "center" }}>Desenvolvedor</h2>
+                        
+                    </div>
+
+                </Grid>
+
+                <Grid item md={5} xs={12} sm={12}></Grid>
 
                 <Grid item md={12} xs={12} sm={12}>
                     <Rodape />
