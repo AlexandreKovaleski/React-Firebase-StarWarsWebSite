@@ -28,10 +28,6 @@ const Login = (props) => {
         }
     };
 
-    const cadastrar = () => {
-        navigate("/cadastro")
-    };
-
     const rememberEmailPassword = () => {
         setRemember(!remember)
 
