@@ -76,12 +76,12 @@ const EpThree = () => {
                             <b>Produtor: </b> {film.producer} <br /> <br />
                             <b>Data de Lançamento: </b> {film.release_date} <br /> <br />
 
-                            <b>Sinopse: </b> Em Star Wars: Episódio III, as Guerras Clônicas estão em pleno andamento 
-                            e as diferenças entre o Conselho Jedi e o Chanceler Palpatine (Ian McDiarmid) aumentam cada 
-                            vez mais. Anakin Skywalker (Hayden Christensen) mantém um elo de lealdade com Palpatine, ao 
-                            mesmo tempo em que luta para que seu casamento com Padmé Amidala (Natalie Portman) não seja 
+                            <b>Sinopse: </b> Em Star Wars: Episódio III, as Guerras Clônicas estão em pleno andamento
+                            e as diferenças entre o Conselho Jedi e o Chanceler Palpatine (Ian McDiarmid) aumentam cada
+                            vez mais. Anakin Skywalker (Hayden Christensen) mantém um elo de lealdade com Palpatine, ao
+                            mesmo tempo em que luta para que seu casamento com Padmé Amidala (Natalie Portman) não seja
                             afetado por esta situação. Seduzido por promessas de poder, Anakin se aproxima cada vez mais de
-                            Darth Sidious (Ian McDiarmid) até se tornar o temível Darth Vader. Juntos eles tramam um plano 
+                            Darth Sidious (Ian McDiarmid) até se tornar o temível Darth Vader. Juntos eles tramam um plano
                             para aniquilar de uma vez por todas com os cavaleiros jedi. <br /> <br />
 
                         </div>

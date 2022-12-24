@@ -54,8 +54,8 @@ const EpNine = () => {
                             <b>Abertura do filme: </b> The dead speak! The galaxy has heard a mysterious broadcast,
                             a threat of REVENGE in the sinister voice of the late EMPEROR PALPATINE.
                             GENERAL LEIA ORGANA dispatches secret agents to gather intelligence, while REY,
-                             the last hope of the Jedi, trains for battle against the diabolical FIRST ORDER.
-                            Meanwhile, Supreme Leader KYLO REN rages in search of the phantom Emperor, 
+                            the last hope of the Jedi, trains for battle against the diabolical FIRST ORDER.
+                            Meanwhile, Supreme Leader KYLO REN rages in search of the phantom Emperor,
                             determined to destroy any threat to his power....<br /> <br />
 
                             <b>Abertura do filme em Português:</b> Os mortos falam! A galáxia ouviu uma transmissão misteriosa,
@@ -68,12 +68,12 @@ const EpNine = () => {
                             <b>Diretor: </b> J. J. Abrams <br /> <br />
                             <b>Produtor: </b> Kathleen Kennedy, J. J. Abrams, Michelle Rejwan <br /> <br />
                             <b>Data de Lançamento: </b> 2019-12-19 <br /> <br />
-                            
-                            <b>Sinopse: </b> Em Star Wars: Episódio IX, com o retorno do Imperador Palpatine (Ian McDiarmid), 
-                            todos voltam a temer seu poder. Assim, a Resistência toma a frente da batalha que ditará os 
-                            rumos da galáxia. Treinando para ser uma completa Jedi, Rey (Daisy Ridley) ainda se encontra 
-                            em conflito com seu passado e futuro, mas teme pelas respostas que pode conseguir a partir 
-                            de sua complexa ligação com Kylo Ren (Adam Driver), que também se 
+
+                            <b>Sinopse: </b> Em Star Wars: Episódio IX, com o retorno do Imperador Palpatine (Ian McDiarmid),
+                            todos voltam a temer seu poder. Assim, a Resistência toma a frente da batalha que ditará os
+                            rumos da galáxia. Treinando para ser uma completa Jedi, Rey (Daisy Ridley) ainda se encontra
+                            em conflito com seu passado e futuro, mas teme pelas respostas que pode conseguir a partir
+                            de sua complexa ligação com Kylo Ren (Adam Driver), que também se
                             encontra em conflito pela Força. <br /> <br />
 
                         </div>

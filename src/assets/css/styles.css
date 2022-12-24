@@ -47,6 +47,10 @@ code {
     background-color: rgb(164, 164, 164);
 }
 
+table {
+    width: 100%;
+}
+
 .home {
     min-height: 400px;
     border-radius: 10px;
@@ -65,12 +69,63 @@ code {
     color: #5a5a5a
 }
 
+.starships {
+    min-height: 400px;
+    border-radius: 10px;
+    padding: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: #5a5a5a
+}
 
-.about {
-    font-size: 16px;
-    padding: 10px;
-    margin-top: 150px;
-    margin-bottom: 150px;
+.peoples {
+    min-height: 400px;
+    border-radius: 10px;
+    padding: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: #5a5a5a
+}
+
+.planets {
+    min-height: 400px;
+    border-radius: 10px;
+    padding: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: #5a5a5a
+}
+
+.species {
+    min-height: 400px;
+    border-radius: 10px;
+    padding: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: #5a5a5a
+}
+
+.about{
+    color: #5a5a5a;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 20px;
+  }
+
+.MuiAvatar-img {
+    object-position: top;
+}
+
+.link-group {
+    display: flex;
+    gap: 20px;
+    color: gray;
+}
+
+.link-group svg {
+    width: 40px;
+    height: 40px;
 }
 
 .rodape {

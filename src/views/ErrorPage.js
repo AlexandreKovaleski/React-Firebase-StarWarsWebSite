@@ -29,9 +29,9 @@ const ErrorPage = () => {
                         <Typography variant="h6">
                             A página que você tentou acessar não existe.
                         </Typography>
-                        <Button 
-                        variant="contained"
-                        onClick={backHome}>Back Home</Button>
+                        <Button
+                            variant="contained"
+                            onClick={backHome}>Back Home</Button>
                     </Grid>
                 </Grid>
             </Container>

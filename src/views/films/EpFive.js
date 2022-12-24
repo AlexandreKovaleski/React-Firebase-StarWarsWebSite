@@ -77,10 +77,10 @@ const EpFive = () => {
                             <b>Produtor: </b> {film.producer} <br /> <br />
                             <b>Data de Lançamento: </b> {film.release_date} <br /> <br />
 
-                            <b>Sinopse: </b> Em Star Wars: Episódio V, as forças imperais comandadas por Darth Vader 
-                            (David Prowse/James Earl Jones) lançam um ataque contra os membros da resistência, que 
-                            são obrigados a fugir. Enquanto isso, Luke Skywalker (Mark Hamill) tenta encontrar o 
-                            Mestre Yoda, que poderá ensiná-lo a dominar a "Força" e torná-lo um cavaleiro Jedi. 
+                            <b>Sinopse: </b> Em Star Wars: Episódio V, as forças imperais comandadas por Darth Vader
+                            (David Prowse/James Earl Jones) lançam um ataque contra os membros da resistência, que
+                            são obrigados a fugir. Enquanto isso, Luke Skywalker (Mark Hamill) tenta encontrar o
+                            Mestre Yoda, que poderá ensiná-lo a dominar a "Força" e torná-lo um cavaleiro Jedi.
                             No entanto, Darth Vader planeja levá-lo para o Lado Negro da "Força". <br /> <br />
 
                         </div>

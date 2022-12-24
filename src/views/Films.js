@@ -35,6 +35,7 @@ const Films = () => {
 
 
                 <Grid item md={1} xs={12} sm={12}></Grid>
+                
                 <Grid item md={10} xs={12} sm={12}>
 
                     <Link to='/films/ep-one'>
@@ -215,6 +216,7 @@ const Films = () => {
                     </Link>
 
                 </Grid>
+                
                 <Grid item md={12} xs={12} sm={12}>
                     <Rodape />
                 </Grid>

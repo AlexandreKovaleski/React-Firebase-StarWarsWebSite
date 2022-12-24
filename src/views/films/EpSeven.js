@@ -57,7 +57,7 @@ const EpSeven = () => {
                             FIRST ORDER has risen from the ashes of the Empire and will not rest until Skywalker, the last Jedi,
                             has been destroyed. With the support of the REPUBLIC, General Leia Organa leads a brave RESISTANCE.
                             She is desperate to find her brother Luke and gain his help in restoring peace and
-                            justice to the galaxy. Leia has sent her most daring pilot on a secret mission 
+                            justice to the galaxy. Leia has sent her most daring pilot on a secret mission
                             to Jakku, where an old ally has discovered a clue to Luke's whereabouts.... <br /> <br />
 
                             <b>Abertura do filme em Português:</b> Luke Skywalker está desaparecido. Em sua ausência, a sinistra
@@ -71,14 +71,14 @@ const EpSeven = () => {
                             <b>Produtor: </b> 	Kathleen Kennedy, J. J. Abrams, Bryan Burk <br /> <br />
                             <b>Data de Lançamento: </b> 2015-12-17 <br /> <br />
 
-                            <b>Sinopse: </b> Em Star Wars: Episódio VII, décadas após a queda de Darth Vader e do Império, 
+                            <b>Sinopse: </b> Em Star Wars: Episódio VII, décadas após a queda de Darth Vader e do Império,
                             surge uma nova ameaça: a Primeira Ordem, uma organização sombria que busca minar o poder da República
-                            e que tem Kylo Ren (Adam Driver), o General Hux (Domhnall Gleeson) e o Líder Supremo Snoke (Andy Serkis) 
-                            como principais expoentes. Eles conseguem capturar Poe Dameron (Oscar Isaac), um dos principais pilotos 
-                            da Resistência, que antes de ser preso envia através do pequeno robô BB-8 o mapa de onde vive o mitológico 
-                            Luke Skywalker (Mark Hamill). Ao fugir pelo deserto, BB-8 encontra a jovem Rey (Daisy Ridley), que vive 
-                            sozinha catando destroços de naves antigas. Paralelamente, Poe recebe a ajuda de Finn (John Boyega), 
-                            um stormtrooper que decide abandonar o posto repentinamente. Juntos, eles escapam do 
+                            e que tem Kylo Ren (Adam Driver), o General Hux (Domhnall Gleeson) e o Líder Supremo Snoke (Andy Serkis)
+                            como principais expoentes. Eles conseguem capturar Poe Dameron (Oscar Isaac), um dos principais pilotos
+                            da Resistência, que antes de ser preso envia através do pequeno robô BB-8 o mapa de onde vive o mitológico
+                            Luke Skywalker (Mark Hamill). Ao fugir pelo deserto, BB-8 encontra a jovem Rey (Daisy Ridley), que vive
+                            sozinha catando destroços de naves antigas. Paralelamente, Poe recebe a ajuda de Finn (John Boyega),
+                            um stormtrooper que decide abandonar o posto repentinamente. Juntos, eles escapam do
                             domínio da Primeira Ordem. <br /> <br />
 
                         </div>

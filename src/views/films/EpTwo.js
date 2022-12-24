@@ -76,12 +76,12 @@ const EpTwo = () => {
                             <b>Produtor: </b> {film.producer} <br /> <br />
                             <b>Data de Lançamento: </b> {film.release_date} <br /> <br />
 
-                            <b>Sinopse: </b> Em Star Wars: Episódio 2, dez anos após a tentativa frustrada de invasão do 
-                            planeta Naboo, Obi-Wan Kenobi (Ewan McGregor), Anakin Skywalker (Hayden Christensen) e Padmé Amidala 
-                            (Natalie Portman) estão juntos novamente. Neste período de tempo Obi-Wan passou de aprendiz a 
-                            professor dos ensinamentos jedi para Anakin, sendo que ambos foram destacados para proteger a 
-                            agora senadora Amidala, que tem sua vida ameaçada por facções separatistas da República, que 
-                            ameaçam desencadear uma guerra civil intergalática. Com o passar do tempo surge um romance 
+                            <b>Sinopse: </b> Em Star Wars: Episódio 2, dez anos após a tentativa frustrada de invasão do
+                            planeta Naboo, Obi-Wan Kenobi (Ewan McGregor), Anakin Skywalker (Hayden Christensen) e Padmé Amidala
+                            (Natalie Portman) estão juntos novamente. Neste período de tempo Obi-Wan passou de aprendiz a
+                            professor dos ensinamentos jedi para Anakin, sendo que ambos foram destacados para proteger a
+                            agora senadora Amidala, que tem sua vida ameaçada por facções separatistas da República, que
+                            ameaçam desencadear uma guerra civil intergalática. Com o passar do tempo surge um romance
                             proibido entre Anakin e Amidala, pois os cavaleiros jedi não têm permissão para se apaixonarem. <br /> <br />
 
 

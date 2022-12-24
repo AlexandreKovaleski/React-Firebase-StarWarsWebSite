@@ -76,11 +76,11 @@ const EpSix = () => {
                             <b>Produtor: </b> {film.producer} <br /> <br />
                             <b>Data de Lançamento: </b> {film.release_date} <br /> <br />
 
-                            <b>Sinopse: </b> Em Star Wars: Episódio VI, o Imperador Palpatine (Ian McDiarmid) 
-                            está supervisionando a construção de uma nova Estrela da Morte. Enquanto isso, 
-                            Luke Skywalker (Mark Hamill) liberta Han Solo (Harrison Ford) e a Princesa Leia (Carrie Fisher) 
-                            das mãos de Jabba, o pior bandido das galáxias. Luke só se tornará um cavaleiro Jedi quando destruir 
-                            Darth Vader, que ainda pretende atraí-lo para o lado negro da "Força". No entanto a luta entre os dois 
+                            <b>Sinopse: </b> Em Star Wars: Episódio VI, o Imperador Palpatine (Ian McDiarmid)
+                            está supervisionando a construção de uma nova Estrela da Morte. Enquanto isso,
+                            Luke Skywalker (Mark Hamill) liberta Han Solo (Harrison Ford) e a Princesa Leia (Carrie Fisher)
+                            das mãos de Jabba, o pior bandido das galáxias. Luke só se tornará um cavaleiro Jedi quando destruir
+                            Darth Vader, que ainda pretende atraí-lo para o lado negro da "Força". No entanto a luta entre os dois
                             vai revelar um inesperado segredo. <br /> <br />
 
                         </div>

@@ -36,7 +36,7 @@ const App = () => {
   }
 
   const router = createBrowserRouter([
-    
+
     {
       path: "/",
       element: <Login verificarLogin={verificarLogin} />
@@ -47,87 +47,87 @@ const App = () => {
     },
     {
       path: "/home",
-      element: login ? <Home /> : <Login verificarLogin={verificarLogin}/>,
+      element: login ? <Home /> : <Login verificarLogin={verificarLogin} />,
     },
 
     {
       path: "/films",
-      element: login ? <Films /> : <Login verificarLogin={verificarLogin}/>,
+      element: login ? <Films /> : <Login verificarLogin={verificarLogin} />,
     },
-    
+
     {
       path: "/starships",
-      element: login ? <Starships /> : <Login verificarLogin={verificarLogin}/>,
+      element: login ? <Starships /> : <Login verificarLogin={verificarLogin} />,
     },
-    
+
     {
       path: "/people",
-      element: login ? <People /> : <Login verificarLogin={verificarLogin}/>,
+      element: login ? <People /> : <Login verificarLogin={verificarLogin} />,
     },
 
     {
       path: "/planets",
-      element: login ? <Planets /> : <Login verificarLogin={verificarLogin}/>,
+      element: login ? <Planets /> : <Login verificarLogin={verificarLogin} />,
     },
 
     {
       path: "/species",
-      element: login ? <Species /> : <Login verificarLogin={verificarLogin}/>,
+      element: login ? <Species /> : <Login verificarLogin={verificarLogin} />,
     },
 
     {
       path: "/about",
-      element: login ? <About /> : <Login verificarLogin={verificarLogin}/>,
+      element: login ? <About /> : <Login verificarLogin={verificarLogin} />,
     },
     {
       path: "/films/ep-one",
-      element: login ? <EpOne /> : <Login verificarLogin={verificarLogin}/>,
+      element: login ? <EpOne /> : <Login verificarLogin={verificarLogin} />,
     },
     {
       path: "/films/ep-two",
-      element: login ? <EpTwo /> : <Login verificarLogin={verificarLogin}/>,
+      element: login ? <EpTwo /> : <Login verificarLogin={verificarLogin} />,
     },
     {
       path: "/films/ep-three",
-      element: login ? <EpThree /> : <Login verificarLogin={verificarLogin}/>,
+      element: login ? <EpThree /> : <Login verificarLogin={verificarLogin} />,
     },
     {
       path: "/films/ep-four",
-      element: login ? <EpFour /> : <Login verificarLogin={verificarLogin}/>,
+      element: login ? <EpFour /> : <Login verificarLogin={verificarLogin} />,
     },
     {
       path: "/films/ep-five",
-      element: login ? <EpFive /> : <Login verificarLogin={verificarLogin}/>,
+      element: login ? <EpFive /> : <Login verificarLogin={verificarLogin} />,
     },
     {
       path: "/films/ep-six",
-      element: login ? <EpSix /> : <Login verificarLogin={verificarLogin}/>,
+      element: login ? <EpSix /> : <Login verificarLogin={verificarLogin} />,
     },
     {
       path: "/films/ep-seven",
-      element: login ? <EpSeven /> : <Login verificarLogin={verificarLogin}/>,
+      element: login ? <EpSeven /> : <Login verificarLogin={verificarLogin} />,
     },
     {
       path: "/films/ep-eight",
-      element: login ? <EpEight /> : <Login verificarLogin={verificarLogin}/>,
+      element: login ? <EpEight /> : <Login verificarLogin={verificarLogin} />,
     },
     {
       path: "/films/ep-nine",
-      element: login ? <EpNine /> : <Login verificarLogin={verificarLogin}/>,
+      element: login ? <EpNine /> : <Login verificarLogin={verificarLogin} />,
     },
     {
       path: "/films/han-solo",
-      element: login ? <HanSolo /> : <Login verificarLogin={verificarLogin}/>,
+      element: login ? <HanSolo /> : <Login verificarLogin={verificarLogin} />,
     },
     {
       path: "/films/rogue-one",
-      element: login ? <RogueOne /> : <Login verificarLogin={verificarLogin}/>,
+      element: login ? <RogueOne /> : <Login verificarLogin={verificarLogin} />,
     },
     {
       path: "/films/sequence",
-      element: login ? <Sequence /> : <Login verificarLogin={verificarLogin}/>,
+      element: login ? <Sequence /> : <Login verificarLogin={verificarLogin} />,
     },
-    
+
   ]);
 
 

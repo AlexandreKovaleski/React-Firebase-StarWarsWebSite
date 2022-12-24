@@ -14,9 +14,10 @@ const Menu = () => {
 
     return (
         <>
-
             <Grid container style={{ padding: 10 }}>
+                
                 <Grid item md={12} xs={12} sm={12}>
+                    
                     <div className='menu'>
 
                         <Link to="/home">
@@ -61,6 +62,7 @@ const Menu = () => {
                             </div>
 
                         </Link>
+                        
                         <Link to='/about'>
                             <div
                                 className='itemMenu'>

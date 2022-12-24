@@ -22,8 +22,8 @@ const Home = () => {
 
 
                 <Grid item md={2} xs={12} sm={12}></Grid>
+                
                 <Grid item md={8} xs={12} sm={12} style={{ textAlign: 'center' }}>
-
 
                     <div
                         className='home'>
@@ -36,6 +36,7 @@ const Home = () => {
                             }}>
                             Sejam todos bem-vindos
                         </h1>
+                        
                         <h2
                             style=
                             {{
@@ -86,6 +87,7 @@ const Home = () => {
 
                 </Grid>
                 <Grid item md={2} xs={12} sm={12}></Grid>
+                
                 <Grid item md={12} xs={12} sm={12}>
                     <Rodape />
                 </Grid>

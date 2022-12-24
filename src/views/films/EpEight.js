@@ -70,9 +70,9 @@ const EpEight = () => {
                             <b>Produtor: </b> Kathleen Kennedy, Ram Bergman <br /> <br />
                             <b>Data de Lançamento: </b> 2014-12-17 <br /> <br />
 
-                            <b>Sinopse: </b> Em Star Wars: Episódio VIII, após encontrar o mítico e recluso Luke Skywalker (Mark Hamill) 
+                            <b>Sinopse: </b> Em Star Wars: Episódio VIII, após encontrar o mítico e recluso Luke Skywalker (Mark Hamill)
                             em uma ilha isolada, a jovem Rey (Daisy Ridley) busca entender o balanço da Força a partir dos ensinamentos
-                            do Mestre Jedi. Paralelamente, a Primeira Ordem de Kylo Ren (Adam Driver) se reorganiza para enfrentar a 
+                            do Mestre Jedi. Paralelamente, a Primeira Ordem de Kylo Ren (Adam Driver) se reorganiza para enfrentar a
                             Resistência. <br /> <br />
 
                         </div>

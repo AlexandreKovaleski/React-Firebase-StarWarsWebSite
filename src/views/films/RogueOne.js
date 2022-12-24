@@ -52,7 +52,7 @@ const EpEight = () => {
                                 lineHeight: 1.5
                             }}>
                             <b>Titulo original: </b> Rogue One: A Star Wars Story <br /> <br />
-                            
+
                             <b>Abertura do filme: </b> The FIRST ORDER reigns. Having decimated the peaceful Republic,
                             Supreme Leader Snoke now deploys his merciless legions to seize military control of the galaxy.
                             Only General Leia Organa's band of RESISTANCE fighters stand against the rising tyranny,
@@ -70,14 +70,14 @@ const EpEight = () => {
                             <b>Diretor: </b> Rian Johnson <br /> <br />
                             <b>Produtor: </b> Kathleen Kennedy, Ram Bergman <br /> <br />
                             <b>Data de Lançamento: </b> 2016-12-15 <br /> <br />
-                            
-                            <b>Sinopse: </b> Em Rogue One: Uma História Star Wars, Jyn Erso (Felicity Jones) 
-                            foi afastada de seu pai, Galen (Mads Mikkelsen), ainda criança, devido à exigência do 
-                            diretor Krennic (Ben Mendelsohn) que ele trabalhasse na construção da arma mais poderosa 
-                            do Império, a Estrela da Morte. Criada por Saw Gerrera (Forest Whitaker), ela teve que aprender 
-                            a sobreviver por conta própria ao completar 16 anos. Já adulta, Jyn é resgatada da prisão pela 
-                            Aliança Rebelde, que deseja ter acesso a uma mensagem enviada por seu pai a Gerrera. Com a promessa de 
-                            liberdade ao término da missão, ela aceita trabalhar ao lado do capitão Cassian Andor 
+
+                            <b>Sinopse: </b> Em Rogue One: Uma História Star Wars, Jyn Erso (Felicity Jones)
+                            foi afastada de seu pai, Galen (Mads Mikkelsen), ainda criança, devido à exigência do
+                            diretor Krennic (Ben Mendelsohn) que ele trabalhasse na construção da arma mais poderosa
+                            do Império, a Estrela da Morte. Criada por Saw Gerrera (Forest Whitaker), ela teve que aprender
+                            a sobreviver por conta própria ao completar 16 anos. Já adulta, Jyn é resgatada da prisão pela
+                            Aliança Rebelde, que deseja ter acesso a uma mensagem enviada por seu pai a Gerrera. Com a promessa de
+                            liberdade ao término da missão, ela aceita trabalhar ao lado do capitão Cassian Andor
                             (Diego Luna) e do robô K-2SO. <br /> <br />
 
 
