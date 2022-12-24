@@ -25,6 +25,7 @@ import EpEight from './views/films/EpEight';
 import EpNine from './views/films/EpNine';
 import HanSolo from './views/films/HanSolo';
 import RogueOne from './views/films/RogueOne';
+import Sequence from './views/films/Sequence';
 
 const App = () => {
 
@@ -121,6 +122,10 @@ const App = () => {
     {
       path: "/films/rogue-one",
       element: login ? <RogueOne /> : <Login verificarLogin={verificarLogin}/>,
+    },
+    {
+      path: "/films/sequence",
+      element: login ? <Sequence /> : <Login verificarLogin={verificarLogin}/>,
     },
     
   ]);

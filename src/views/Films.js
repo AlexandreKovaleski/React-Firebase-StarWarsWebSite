@@ -17,6 +17,7 @@ import img8 from '../assets/images/EpisodioVIII.png';
 import img9 from '../assets/images/EpisodioIX.png';
 import img10 from '../assets/images/HanSolo.png';
 import img11 from '../assets/images/RogueOne.png';
+import img12 from '../assets/images/Sequence.png';
 
 const Films = () => {
     return (
@@ -187,6 +188,21 @@ const Films = () => {
                         <div>
                             <img
                                 src={img11}
+                                style=
+                                {{
+                                    width: 250,
+                                    float: 'left',
+                                    marginLeft: 50,
+                                    marginTop: 20
+                                }}
+                                alt='Rogue One: Uma História Star Wars' />
+                        </div>
+                    </Link>
+
+                    <Link to='/films/sequence'>
+                        <div>
+                            <img
+                                src={img12}
                                 style=
                                 {{
                                     width: 250,
