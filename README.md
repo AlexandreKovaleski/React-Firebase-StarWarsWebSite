@@ -1,4 +1,4 @@
-### URL Deply
+### URL Deploy
 https://starwarsfansatitus.web.app/ <br/><br/>
 
 ##
