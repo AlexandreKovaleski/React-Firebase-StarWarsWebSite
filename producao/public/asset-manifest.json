@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.db8a61b3.css",
+    "main.js": "/static/js/main.996c9ecf.js",
+    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
+    "static/media/EpisodioV.png": "/static/media/EpisodioV.9d9e5e4ddf122dd9182e.png",
+    "static/media/EpisodioVI.png": "/static/media/EpisodioVI.a472fc36a986f4daf1da.png",
+    "static/media/EpisodioVIII.png": "/static/media/EpisodioVIII.2684c7c15edc95affbc9.png",
+    "static/media/EpisodioVII.png": "/static/media/EpisodioVII.dba6a0aee8757b8e9dc0.png",
+    "static/media/EpisodioI.png": "/static/media/EpisodioI.a504f9ded195bc10ecb7.png",
+    "static/media/EpisodioII.png": "/static/media/EpisodioII.0182a85772a480693563.png",
+    "static/media/HanSolo.png": "/static/media/HanSolo.ba7470129ebffe47f59e.png",
+    "static/media/RogueOne.png": "/static/media/RogueOne.53cb0a7041c05a29fe22.png",
+    "static/media/EpisodioIX.png": "/static/media/EpisodioIX.d849563aaba6501922f9.png",
+    "static/media/EpisodioIV.png": "/static/media/EpisodioIV.52a3bb4e2f9bc8ccacf3.png",
+    "static/media/EpisodioIII.png": "/static/media/EpisodioIII.3b2e8708ae238bc96bcb.png",
+    "static/media/DarthVader-background.jpg": "/static/media/DarthVader-background.5e46d77561781fb30f6e.jpg",
+    "static/media/Sequence.png": "/static/media/Sequence.2dc2f664191822f7e855.png",
+    "static/media/profilePhoto.jpg": "/static/media/profilePhoto.ffc1f36805176774331f.jpg",
+    "static/media/imgHome.png": "/static/media/imgHome.1d6268847456b1003776.png",
+    "index.html": "/index.html",
+    "main.db8a61b3.css.map": "/static/css/main.db8a61b3.css.map",
+    "main.996c9ecf.js.map": "/static/js/main.996c9ecf.js.map",
+    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db8a61b3.css",
+    "static/js/main.996c9ecf.js"
+  ]
+}
